@@ -1,0 +1,5 @@
+import random
+data = []
+data.append(random.randint(10))
+for i in range(len(data)):
+     print(data[i])
